@@ -1,1 +1,2 @@
-# DBS_Final_Project
+# Course_Evaluation
+This is the database system final project.
